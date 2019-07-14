@@ -11,7 +11,7 @@ The goal of this project is to analyze drug treatment on tumor volume, metastasi
 ## Summary
 1. Graph 'Tumor Response to Treatment' shows that the drug Capomulin had a better result, the tumors volume for the mice taking Capomulin shrunk in course of trial while for the mice taking the other drugs, tumors volume grew almost with the same rate.
 
-![Alt Text](figures/fig1_tumor_response_to_treatment.png)
+![Alt Text](Pymaceuticals/figures/fig1_tumor_response_to_treatment.png)
 
 2. Graph 'Metastatic Spread During Treatment' shows that all tumors had metastatic spread regardless of the drug, although the mice taking Capomulin had slowest metastatic spread and Placebo had the fastest spread.
 
